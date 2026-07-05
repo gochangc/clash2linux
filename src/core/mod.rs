@@ -1,1 +1,1 @@
-use anyhow::Result; pub fn run() -> Result<()> { Ok(()) }
+pub mod consts;
